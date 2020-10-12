@@ -1,14 +1,14 @@
 {
-  photos: [
+  "photos": [
     {
-      url: 'https://drscdn.500px.org/photo/1022687857/q%3D80_m%3D2000/v2?sig=be11cb54f6e39146ffb1a3fccc4395dcd7cc773635d9b5032cae4e54f54595a5'
+      "url": "https://drscdn.500px.org/photo/1022687857/q%3D80_m%3D2000/v2?sig=be11cb54f6e39146ffb1a3fccc4395dcd7cc773635d9b5032cae4e54f54595a5"
     }
   ],
-  info: [
+  "info": [
     {
-      title: '你的名字',
-      name: 'PanxySam',
-      intro: 'I'm a student'
+      "title": "你的名字",
+      "name": "PanxySam",
+      "intro": "I'm a student"
     }
   ]
 }
